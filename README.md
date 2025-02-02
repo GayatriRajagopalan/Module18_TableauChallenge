@@ -54,7 +54,7 @@ Share the Tableau Story: Publish your workbook to Tableau Public and submit the 
 
 Download the data from the Citi Bike Data webpage [here](https://citibikenyc.com/system-data)
 
-Github Link to access the Jupyter notebook containing code to extract zip codes & merge files and Tableau workbook [Link]https://github.com/GayatriRajagopalan/Module18_TableauChallenge.git)
+Github Link to access the Jupyter notebook containing code to extract zip codes & merge files and Tableau workbook [Link](https://github.com/GayatriRajagopalan/Module18_TableauChallenge.git)
 
 Tableau Workbooks Link to access the presentation [Link](https://public.tableau.com/views/CitiBikeAnalysis_17385281181750/CitiBikeMainMenu?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
